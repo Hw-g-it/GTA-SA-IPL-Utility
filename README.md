@@ -1,5 +1,6 @@
 # GTA SA IPL Utility
-<img width="853" height="555" alt="image" src="https://github.com/user-attachments/assets/35a8e04e-e763-4675-afe3-ec75589e24ec" />
+<img width="856" height="533" alt="image" src="https://github.com/user-attachments/assets/17390d3e-c987-4eb6-acbb-49281708f177" />
+
 Я знаю что таких программ немало, но мне нужно было внести некоторые изменения и это вылилось в объединение нескольких функций.
 
 **Bin -> Text** - кидаешь бинарные `.ipl` в `Files/bin_import/`, выбираешь нужные, жмёшь конвертировать. Текстовый IPL появляется в `Files/text_export/`. 
